@@ -1,6 +1,6 @@
 # AppFlix
 
-Interface sobre App de filmes
+Interface para App de filmes.
 
 
 ## 📱 Layout
@@ -15,7 +15,7 @@ Interface sobre App de filmes
 ## 🚀 Tecnologias
 
 - [React Native](https://facebook.github.io/react-native/)
-Bibliotecas Carousel e Material Icons
+Bibliotecas Carousel e Material Icons.
 
 ## 💻 Projeto
 É um layout pensado para App de filme.
